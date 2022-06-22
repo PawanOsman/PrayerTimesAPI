@@ -159,3 +159,6 @@ You will get json response like this:
 | Latakia | latakia |
 
 
+
+#### Data is from this repository: https://github.com/kosratdev/muslim-data-ios
+
